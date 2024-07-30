@@ -1,0 +1,10 @@
+names:
+- door
+- double door
+- window
+- door demolished
+- double door demolished
+nc: 5
+test: datasets/test/images
+train: datasets/train/images
+val: datasets/valid/images
